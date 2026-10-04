@@ -1,0 +1,17 @@
+# Unity: carpetas que Unity regenera solo al abrir el proyecto
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/.vs/
+**/*.csproj
+**/*.sln
+**/*.slnx
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
